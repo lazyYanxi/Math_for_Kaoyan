@@ -60,12 +60,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学一考试大纲.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "考研数学一考试大纲"
+              "title": "README"
             }
           }
         ]
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3492bf0ea855a4f3",
@@ -218,26 +217,25 @@
   },
   "active": "56bef7121a73e6bf",
   "lastOpenFiles": [
-    "书籍和材料/概率论与数理统计（陈希孺）.pdf",
+    "考研数学一考试大纲.md",
     "书籍和材料/高等数学_下册.pdf",
-    "书籍和材料/张宇1000_习题.pdf",
     "书籍和材料/高等数学_上册.pdf",
     "书籍和材料/概统习题集.pdf",
     "书籍和材料/概率论与数理统计B提纲.pdf",
     "书籍和材料/张宇1000_答案.pdf",
+    "书籍和材料/概率论与数理统计（陈希孺）.pdf",
     "书籍和材料/803 概率论与数理统计考纲.pdf",
+    "书籍和材料/张宇1000_习题.pdf",
     "书籍和材料/2025考研数学一考试大纲.pdf",
     "书籍和材料",
-    "新建 文本文档.txt",
     "高等数学.md",
     "附件/Pasted image 20250427210720.png",
     "做题技巧.md",
     "附件/Pasted image 20250427124818.png",
     "附件/Pasted image 20250419205405.png",
-    "考研数学一考试大纲.md",
     "考研数学一考试大纲 - 副本.md",
     "经典解法.md",
-    "Untitled.md",
+    "README.md",
     "附件/Pasted image 20250423194056.png",
     "附件/Pasted image 20250419205532.png",
     "Pasted image 20250419205336.png",
