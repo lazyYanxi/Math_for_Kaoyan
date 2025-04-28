@@ -1,0 +1,18 @@
+{
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "vimMode": false,
+  "foldIndent": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 69
+  },
+  "promptDelete": false,
+  "attachmentFolderPath": "附件"
+}

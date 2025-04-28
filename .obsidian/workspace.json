@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "8b6f1a0c4ed453ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe78482dbe806128",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72249088be5b232d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "做题技巧.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "做题技巧"
+            }
+          },
+          {
+            "id": "e8caff2f5d6554c2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "书籍和材料/张宇1000_答案.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "张宇1000_答案"
+            }
+          },
+          {
+            "id": "1daf6ba7707da799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高等数学.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "高等数学"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4cedee7475a183ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56bef7121a73e6bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研数学一考试大纲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "考研数学一考试大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b161dfde6d3f33e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ab205ab58eb9f36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adb2acbcefa76a93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "da1b2ded3438e678",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9e6eac238a9b6dd5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3492bf0ea855a4f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "978520587c1b75ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3345ff4b6eaa9a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "高等数学.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 高等数学"
+            }
+          },
+          {
+            "id": "6cf52e4a1e03649f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "高等数学.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 高等数学"
+            }
+          },
+          {
+            "id": "30ed3fd05db13730",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4088d4d0e27e7924",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "高等数学.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 高等数学"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "56bef7121a73e6bf",
+  "lastOpenFiles": [
+    "书籍和材料/概率论与数理统计（陈希孺）.pdf",
+    "书籍和材料/高等数学_下册.pdf",
+    "书籍和材料/张宇1000_习题.pdf",
+    "书籍和材料/高等数学_上册.pdf",
+    "书籍和材料/概统习题集.pdf",
+    "书籍和材料/概率论与数理统计B提纲.pdf",
+    "书籍和材料/张宇1000_答案.pdf",
+    "书籍和材料/803 概率论与数理统计考纲.pdf",
+    "书籍和材料/2025考研数学一考试大纲.pdf",
+    "书籍和材料",
+    "新建 文本文档.txt",
+    "高等数学.md",
+    "附件/Pasted image 20250427210720.png",
+    "做题技巧.md",
+    "附件/Pasted image 20250427124818.png",
+    "附件/Pasted image 20250419205405.png",
+    "考研数学一考试大纲.md",
+    "考研数学一考试大纲 - 副本.md",
+    "经典解法.md",
+    "Untitled.md",
+    "附件/Pasted image 20250423194056.png",
+    "附件/Pasted image 20250419205532.png",
+    "Pasted image 20250419205336.png",
+    "Pasted image 20250406213156.png",
+    "Welcome.md"
+  ]
+}
