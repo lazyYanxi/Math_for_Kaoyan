@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1daf6ba7707da799",
+            "id": "14d2357d060bc8ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学.md",
+                "file": "高等数学知识库.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "高等数学"
+              "title": "高等数学知识库"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3492bf0ea855a4f3",
@@ -169,13 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1daf6ba7707da799",
+  "active": "14d2357d060bc8ba",
   "lastOpenFiles": [
     "书籍和材料/高等数学_下册.pdf",
-    "高等数学.md",
+    "高等数学知识库.md",
     "考研数学一考试大纲.md",
-    "README.md",
     "书籍和材料/2025考研数学一考试大纲.pdf",
+    "README.md",
     "书籍和材料/张宇1000_习题.pdf",
     "书籍和材料/张宇1000_答案.pdf",
     "做题技巧.md",
