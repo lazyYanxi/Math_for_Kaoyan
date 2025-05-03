@@ -1,5 +1,5 @@
 {
-  "readableLineLength": true,
+  "readableLineLength": false,
   "strictLineBreaks": false,
   "foldHeading": true,
   "showLineNumber": true,

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe78482dbe806128",
+        "id": "a863bffa01999661",
         "type": "tabs",
         "children": [
           {
-            "id": "14d2357d060bc8ba",
+            "id": "f6df8f13fab12109",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3492bf0ea855a4f3",
@@ -168,16 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14d2357d060bc8ba",
+  "active": "f6df8f13fab12109",
   "lastOpenFiles": [
     "书籍和材料/高等数学_下册.pdf",
     "高等数学知识库.md",
+    "做题技巧.md",
     "考研数学一考试大纲.md",
+    "经典解法.md",
     "书籍和材料/2025考研数学一考试大纲.pdf",
     "README.md",
     "书籍和材料/张宇1000_习题.pdf",
     "书籍和材料/张宇1000_答案.pdf",
-    "做题技巧.md",
     "书籍和材料/概统习题集.pdf",
     "书籍和材料/高等数学_上册.pdf",
     "书籍和材料/概率论与数理统计B提纲.pdf",
@@ -188,7 +190,6 @@
     "附件/Pasted image 20250427124818.png",
     "附件/Pasted image 20250419205405.png",
     "考研数学一考试大纲 - 副本.md",
-    "经典解法.md",
     "附件/Pasted image 20250423194056.png",
     "附件/Pasted image 20250419205532.png",
     "Pasted image 20250419205336.png",
