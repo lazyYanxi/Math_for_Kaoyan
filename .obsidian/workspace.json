@@ -8,35 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eaff3d76d2248ca7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90数学缩写.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "90数学缩写"
-            }
-          },
-          {
-            "id": "bcd7ed50143924bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "21做题技巧.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "21做题技巧"
-            }
-          },
-          {
             "id": "1ce8a60772396def",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "31经典解法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "31经典解法"
+            }
+          },
+          {
+            "id": "4e786c32f22ab80a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,18 +36,21 @@
             }
           },
           {
-            "id": "59aa5187a12cbe99",
+            "id": "4f696d5d29e6db4a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "书籍和材料/张宇1000_习题.pdf"
+                "file": "11高等数学.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "张宇1000_习题"
+              "icon": "lucide-file",
+              "title": "11高等数学"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6099866e1dca05d9",
@@ -136,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3492bf0ea855a4f3",
@@ -226,19 +216,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eaff3d76d2248ca7",
+  "active": "4e786c32f22ab80a",
   "lastOpenFiles": [
-    "32张宇1000题目记录.md",
-    "90数学缩写.md",
-    "11高等数学.md",
     "21做题技巧.md",
-    "书籍和材料/张宇1000_习题.pdf",
-    "01考研数学一考试大纲.md",
-    "12线性代数.md",
-    "99庄圣至理.md",
+    "11高等数学.md",
     "31经典解法.md",
+    "32张宇1000题目记录.md",
+    "01考研数学一考试大纲.md",
+    "99庄圣至理.md",
     "README.md",
+    "12线性代数.md",
+    "90数学缩写.md",
     "书籍和材料/线性代数_同济大学.pdf",
+    "书籍和材料/张宇1000_习题.pdf",
     "书籍和材料/高等数学_下册.pdf",
     "书籍和材料/张宇1000_答案.pdf",
     "书籍和材料/2025考研数学一考试大纲.pdf",
