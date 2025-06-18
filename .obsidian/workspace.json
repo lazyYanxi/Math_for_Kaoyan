@@ -8,35 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ce8a60772396def",
+            "id": "2e234636fb58fddb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "31经典解法.md",
+                "file": "12线性代数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "31经典解法"
+              "title": "12线性代数"
             }
           },
           {
-            "id": "4e786c32f22ab80a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "32张宇1000题目记录.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "32张宇1000题目记录"
-            }
-          },
-          {
-            "id": "4f696d5d29e6db4a",
+            "id": "97157e760c93f2cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,9 +34,51 @@
               "icon": "lucide-file",
               "title": "11高等数学"
             }
+          },
+          {
+            "id": "b21e9a66aa299847",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01考研数学一考试大纲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01考研数学一考试大纲"
+            }
+          },
+          {
+            "id": "f45ca21291515524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90数学缩写.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "90数学缩写"
+            }
+          },
+          {
+            "id": "a99ac5e6afbe920f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "21做题技巧.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "21做题技巧"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "6099866e1dca05d9",
@@ -67,8 +95,33 @@
               "icon": "lucide-file-text",
               "title": "线性代数_同济大学"
             }
+          },
+          {
+            "id": "2f6dbe6d8ff0c380",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "书籍和材料/张宇1000_答案.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "张宇1000_答案"
+            }
+          },
+          {
+            "id": "c34194089148b0d2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "书籍和材料/张宇1000_习题.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "张宇1000_习题"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,21 +269,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e786c32f22ab80a",
+  "active": "a99ac5e6afbe920f",
   "lastOpenFiles": [
-    "21做题技巧.md",
-    "11高等数学.md",
     "31经典解法.md",
-    "32张宇1000题目记录.md",
-    "01考研数学一考试大纲.md",
-    "99庄圣至理.md",
-    "README.md",
+    "21做题技巧.md",
     "12线性代数.md",
     "90数学缩写.md",
-    "书籍和材料/线性代数_同济大学.pdf",
+    "32张宇1000题目记录.md",
+    "01考研数学一考试大纲.md",
     "书籍和材料/张宇1000_习题.pdf",
-    "书籍和材料/高等数学_下册.pdf",
+    "书籍和材料/线性代数_同济大学.pdf",
     "书籍和材料/张宇1000_答案.pdf",
+    "11高等数学.md",
+    "校长信箱.md",
+    "99庄圣至理.md",
+    "README.md",
+    "书籍和材料/高等数学_下册.pdf",
     "书籍和材料/2025考研数学一考试大纲.pdf",
     "书籍和材料/概统习题集.pdf",
     "书籍和材料/高等数学_上册.pdf",
