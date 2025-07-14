@@ -4,24 +4,110 @@
     "type": "split",
     "children": [
       {
-        "id": "a033eefe86882e49",
+        "id": "5f54e4096b735b19",
         "type": "tabs",
         "children": [
           {
-            "id": "76d1bb6ea1dff2ab",
+            "id": "0a2a588bc8cd7bdd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "书籍和材料/张宇1000_答案.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "张宇1000_答案"
+            }
+          },
+          {
+            "id": "a799ce0e174b4f14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90数学缩写.md",
+                "file": "33线性代数课本题目记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "90数学缩写"
+              "title": "33线性代数课本题目记录"
+            }
+          },
+          {
+            "id": "97dc31dc482ec1f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12线性代数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12线性代数"
+            }
+          },
+          {
+            "id": "e7c2bca46c97d3f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02考研数学二考试大纲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02考研数学二考试大纲"
+            }
+          },
+          {
+            "id": "e3d5e33e8b8daecc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "22做题技巧_线性代数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "22做题技巧_线性代数"
             }
           }
-        ]
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "3164886042307d70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36216d6bab1af7a6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "书籍和材料/线性代数_同济大学.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "线性代数_同济大学"
+            }
+          },
+          {
+            "id": "fa6facc64de7705a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "书籍和材料/张宇1000_答案.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "张宇1000_答案"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3492bf0ea855a4f3",
@@ -168,35 +255,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76d1bb6ea1dff2ab",
+  "active": "e3d5e33e8b8daecc",
   "lastOpenFiles": [
+    "12线性代数.md",
+    "02考研数学二考试大纲.md",
+    "01考研数学一考试大纲.md",
+    "22做题技巧_线性代数.md",
+    "33线性代数课本题目记录.md",
+    "书籍和材料/张宇1000_答案.pdf",
+    "书籍和材料/线性代数_同济大学.pdf",
+    "31经典解法.md",
+    "21做题技巧_高等数学.md",
+    "90数学缩写.md",
+    "13线性代数课本定理性质合集.md",
+    "书籍和材料/2025考研数学二考试大纲.pdf",
+    "书籍和材料/概率论与数理统计B提纲.pdf",
     "41备忘录.md",
     "40计算错误.md",
-    "书籍和材料/2025考研数学二考试大纲.pdf",
-    "01考研数学一考试大纲.md",
-    "02考研数学二考试大纲.md",
     "书籍和材料/2025考研数学一考试大纲.pdf",
     "书籍和材料/高等数学_下册.pdf",
     "书籍和材料/高等数学_上册.pdf",
     "书籍和材料/张宇1000_习题.pdf",
-    "书籍和材料/张宇1000_答案.pdf",
     "书籍和材料/202409111510123279.pdf",
     "34积分合集.md",
-    "90数学缩写.md",
     "99庄圣至理.md",
     "32张宇1000题目记录.md",
-    "21做题技巧_高等数学.md",
     "11高等数学.md",
     "Untitled.md",
     "书籍和材料/线性代数_同济大学_答案.pdf",
-    "书籍和材料/线性代数_同济大学.pdf",
-    "书籍和材料/线性代数学习辅导与习题全解_同济大学.pdf",
-    "22做题技巧_线性代数.md",
-    "33线性代数课本题目记录.md",
-    "13线性代数课本定理性质合集.md",
-    "12线性代数.md",
     "附件/Pasted image 20250620204836.png",
-    "31经典解法.md",
     "91希腊字母表.md",
     "校长信箱.md",
     "README.md",
